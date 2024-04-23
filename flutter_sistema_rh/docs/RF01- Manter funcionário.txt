@@ -1,0 +1,11 @@
+RF01- Manter funcionário
+RF02- Manter gastos e receitas
+RF03- Emitir relatórios mensais (faturamento, despesas, rendimento de funcionários)
+RF04- Manter salário de funcionário
+RF05- Manter beneficios de funcionário
+RF06- Manter descontos funcionário
+RF07- Manter departamentos
+
+RNF01- Segurança do sistema
+
+RD01- Avaliações mensais de funcionários
