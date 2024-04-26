@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_sistema_rh/presentation/screen/home_screen.dart';
+import 'package:flutter_sistema_rh/routes.dart';
 
 void main() {
   runApp(const MainApp());
@@ -9,12 +11,9 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World!'),
-        ),
-      ),
+    return MaterialApp(
+      initialRoute: HomeScreen.routName,
+      routes: RoutesNames.routesNames,
     );
   }
 }
