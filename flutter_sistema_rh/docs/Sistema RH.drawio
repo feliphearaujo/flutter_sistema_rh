@@ -1,63 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T23:51:56.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="aLEUCuOVrYIwbcqP2Uwz" version="24.2.8" type="device">
+<mxfile host="Electron" modified="2024-04-26T23:13:51.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="CPZDDNZZS8IM9TDQpQHT" version="22.1.2" type="device">
   <diagram name="Página-1" id="Ink3dyBSjr8DTctLTgsY">
-    <mxGraphModel dx="1434" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UIP04aFbGGrDWOQayAOk-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-3">
+        <mxCell id="UIP04aFbGGrDWOQayAOk-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-6">
+        <mxCell id="UIP04aFbGGrDWOQayAOk-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-1" value="Funcionário de RH" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-920" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-2" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-920" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-3" value="Manter funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-1080" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-5" value="Manter gastos e despesas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-700" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-6" value="Emitir relatórios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-1100" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-7" value="Manter departamentos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-790" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-8" target="UIP04aFbGGrDWOQayAOk-3">
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="kKZP3CPvyLs9UvKUF59e-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-17" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UIP04aFbGGrDWOQayAOk-16">
-          <mxGeometry x="0.0348" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-8" value="Manter beneficios" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="-920" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-9" target="UIP04aFbGGrDWOQayAOk-3">
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="kKZP3CPvyLs9UvKUF59e-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UIP04aFbGGrDWOQayAOk-15">
-          <mxGeometry x="-0.2227" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-9" value="Manter descontos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-930" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.025;entryY=0.413;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-2" target="UIP04aFbGGrDWOQayAOk-3">
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="kKZP3CPvyLs9UvKUF59e-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-7">
+        <mxCell id="UIP04aFbGGrDWOQayAOk-1" value="Funcionário de RH" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="-900" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIP04aFbGGrDWOQayAOk-3" value="Manter funcionário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIP04aFbGGrDWOQayAOk-5" value="Manter gastos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="-800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIP04aFbGGrDWOQayAOk-6" value="Emitir relatório faturamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="-1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIP04aFbGGrDWOQayAOk-7" value="Manter departamentos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="-920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIP04aFbGGrDWOQayAOk-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UIP04aFbGGrDWOQayAOk-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-5">
+        <mxCell id="UIP04aFbGGrDWOQayAOk-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="UIP04aFbGGrDWOQayAOk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-3" value="Manter Receitas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-5" value="Emitir relatório avaliação funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="kKZP3CPvyLs9UvKUF59e-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-7" value="Manter folha de pagamento funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="-980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UIP04aFbGGrDWOQayAOk-1" target="kKZP3CPvyLs9UvKUF59e-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-9" value="Cadastrar avaliação de funcionário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kKZP3CPvyLs9UvKUF59e-11" value="Manter dependentes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="-730" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
